@@ -1,0 +1,12 @@
+{
+  "name": "jugdmental-shower-bot",
+  "version": "1.0.0",
+  "description": "jugdmental-shower-bot. Now everithing is clean!",
+  "main": "index.js",
+  "repository": "https://github.com/TrubbyOverflow/jugdmental-shower-bot",
+  "author": "Lucas Delboni",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
